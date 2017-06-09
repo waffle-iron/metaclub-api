@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/MetaClub/metaclub-api.png?label=ready&title=Ready)](https://waffle.io/MetaClub/metaclub-api?utm_source=badge)
 ##API-Metaclub
 
 [![Build Status](https://travis-ci.org/MetaClub/api-metaclub.svg?branch=master)](https://travis-ci.org/MetaClub/api-metaclub)
